@@ -1,0 +1,11 @@
+file = open("a.txt")
+
+text = file.read()
+print(text)
+print(len(text))
+print("&" * 100)
+text = file.read()
+print(text)
+print(len(text))
+print("&" * 100)
+file.close()

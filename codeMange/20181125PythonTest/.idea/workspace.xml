@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6330048f-4257-43c2-ad60-b8aa6328933b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_03.coverage" NAME="test020181209_03 Coverage Results" MODIFIED="1544341025938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_06.coverage" NAME="test020181209_06 Coverage Results" MODIFIED="1544347786241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_12.coverage" NAME="test020181209_12 Coverage Results" MODIFIED="1544360952239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181219_02.coverage" NAME="test20181219_02 Coverage Results" MODIFIED="1545233826132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$Test20181129_03.coverage" NAME="Test20181129_03 Coverage Results" MODIFIED="1543503657723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$setup.coverage" NAME="setup Coverage Results" MODIFIED="1545316543496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$a.coverage" NAME="a Coverage Results" MODIFIED="1543138006473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$Test20181128_03.coverage" NAME="Test20181128_03 Coverage Results" MODIFIED="1543424962346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$cards_tools.coverage" NAME="cards_tools Coverage Results" MODIFIED="1544335080022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_20181209" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_09.coverage" NAME="test020181209_09 Coverage Results" MODIFIED="1544350254572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_13.coverage" NAME="test020181209_13 Coverage Results" MODIFIED="1544362929193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181211_05.coverage" NAME="test20181211_05 Coverage Results" MODIFIED="1544544485672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$readLine.coverage" NAME="readLine Coverage Results" MODIFIED="1545318996365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/readText" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1544286831627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_20181209" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_07.coverage" NAME="test020181209_07 Coverage Results" MODIFIED="1544349499238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181212.coverage" NAME="test20181212 Coverage Results" MODIFIED="1544545206210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$Test20181127.coverage" NAME="Test20181127 Coverage Results" MODIFIED="1543336750053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_14.coverage" NAME="test020181209_14 Coverage Results" MODIFIED="1544455564073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181213.coverage" NAME="test20181213 Coverage Results" MODIFIED="1544714317649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_02.coverage" NAME="test020181209_02 Coverage Results" MODIFIED="1544339908600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_08.coverage" NAME="test020181209_08 Coverage Results" MODIFIED="1544349753989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181218_01.coverage" NAME="test20181218_01 Coverage Results" MODIFIED="1545233166558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$Test20181128_02.coverage" NAME="Test20181128_02 Coverage Results" MODIFIED="1543338104419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$Test20181128.coverage" NAME="Test20181128 Coverage Results" MODIFIED="1543337259534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181219_01.coverage" NAME="test20181219_01 Coverage Results" MODIFIED="1545233367926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181211.coverage" NAME="test20181211 Coverage Results" MODIFIED="1544460205431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181212_01.coverage" NAME="test20181212_01 Coverage Results" MODIFIED="1544546188899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181213_01.coverage" NAME="test20181213_01 Coverage Results" MODIFIED="1544715084173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181204_02.coverage" NAME="test20181204_02 Coverage Results" MODIFIED="1543945161581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209.coverage" NAME="test020181209 Coverage Results" MODIFIED="1544284989557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181211_04.coverage" NAME="test20181211_04 Coverage Results" MODIFIED="1544543776751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181211_02.coverage" NAME="test20181211_02 Coverage Results" MODIFIED="1544461003886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181212_02.coverage" NAME="test20181212_02 Coverage Results" MODIFIED="1544546510893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181207.coverage" NAME="test020181207 Coverage Results" MODIFIED="1544118493746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181213_02.coverage" NAME="test20181213_02 Coverage Results" MODIFIED="1544715313566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$write.coverage" NAME="write Coverage Results" MODIFIED="1545318128841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/readText" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_10.coverage" NAME="test020181209_10 Coverage Results" MODIFIED="1544351287708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181219_03.coverage" NAME="test20181219_03 Coverage Results" MODIFIED="1545237763605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_04.coverage" NAME="test020181209_04 Coverage Results" MODIFIED="1544543864475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$b.coverage" NAME="b Coverage Results" MODIFIED="1543137975997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$read.coverage" NAME="read Coverage Results" MODIFIED="1545317691218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/readText" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_11.coverage" NAME="test020181209_11 Coverage Results" MODIFIED="1544359664470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181212_03.coverage" NAME="test20181212_03 Coverage Results" MODIFIED="1544546743972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181208.coverage" NAME="test020181208 Coverage Results" MODIFIED="1544284432932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$20181129.coverage" NAME="20181129 Coverage Results" MODIFIED="1543425021557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181211_03.coverage" NAME="test20181211_03 Coverage Results" MODIFIED="1544717117413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181204.coverage" NAME="test20181204 Coverage Results" MODIFIED="1543936415903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test020181209_05.coverage" NAME="test020181209_05 Coverage Results" MODIFIED="1544346241859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$Test20181129_02.coverage" NAME="Test20181129_02 Coverage Results" MODIFIED="1543425467149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$Test20181129.coverage" NAME="Test20181129 Coverage Results" MODIFIED="1543425508635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201811" />
+    <SUITE FILE_PATH="coverage/20181125PythonTest$test20181213_03.coverage" NAME="test20181213_03 Coverage Results" MODIFIED="1544716360397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test201812" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="20181125PythonTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addSum</find>
+      <find>input</find>
+      <find>glo</find>
+      <find>global</find>
+      <find>split</find>
+      <find>class</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test201811/Test20181129.py" />
+        <option value="$PROJECT_DIR$/test201811/Test20181129_03.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181204.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181204_02.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181207.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181208.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209.py" />
+        <option value="$PROJECT_DIR$/example_20181209/cards_main.py" />
+        <option value="$PROJECT_DIR$/example_20181209/test.py" />
+        <option value="$PROJECT_DIR$/example_20181209/cards_tools.py" />
+        <option value="$PROJECT_DIR$/venv/test020181209_02.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_03.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_04.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_05.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_06.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_07.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_08.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_09.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_10.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_11.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_12.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_14.py" />
+        <option value="$PROJECT_DIR$/test201812/test020181209_13.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181211.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181211_02.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181211_03.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181211_04.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181211_05.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181212.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181212_01.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181212_02.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181212_03.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181213.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181213_01.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181213_02.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181213_03.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181218_01.py" />
+        <option value="$PROJECT_DIR$/test201812/20181219_01.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181219_01.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181219_02.py" />
+        <option value="$PROJECT_DIR$/create_package/send_message.py" />
+        <option value="$PROJECT_DIR$/create_package/receive_message.py" />
+        <option value="$PROJECT_DIR$/create_package/__init__.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181219_03.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/readText/read.py" />
+        <option value="$PROJECT_DIR$/readText/write.py" />
+        <option value="$PROJECT_DIR$/readText/a.txt" />
+        <option value="$PROJECT_DIR$/readText/readLine.py" />
+        <option value="$PROJECT_DIR$/test201812/test20181220_01.py" />
+        <option value="$PROJECT_DIR$/笔记.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="130" />
+    <option name="y" value="361" />
+    <option name="width" value="2585" />
+    <option name="height" value="1450" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20181125PythonTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181125PythonTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/pythonCode" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codeMange\20181125PythonTest\test201812" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codeMange\20181125PythonTest\test201812" />
+      <recent name="D:\codeMange\20181125PythonTest\readText" />
+      <recent name="D:\codeMange\20181125PythonTest\图片笔记" />
+      <recent name="D:\codeMange\20181125PythonTest\venv" />
+      <recent name="D:\codeMange\20181125PythonTest\test201811" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.readLine">
+    <configuration name="read" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="20181125PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/readText" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readText/read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readLine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="20181125PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/readText" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readText/readLine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="20181125PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test20181219_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="20181125PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test201812" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test201812/test20181219_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="20181125PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/readText" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readText/write.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readLine" />
+        <item itemvalue="Python.write" />
+        <item itemvalue="Python.read" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.test20181219_03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6330048f-4257-43c2-ad60-b8aa6328933b" name="Default Changelist" comment="" />
+      <created>1543134421851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543134421851</updated>
+      <workItem from="1543134423955" duration="3160000" />
+      <workItem from="1543332448439" duration="7005000" />
+      <workItem from="1543339609098" duration="8000" />
+      <workItem from="1543339640956" duration="9000" />
+      <workItem from="1543340320515" duration="80000" />
+      <workItem from="1543422664229" duration="2175000" />
+      <workItem from="1543499159305" duration="3610000" />
+      <workItem from="1543933883539" duration="7827000" />
+      <workItem from="1544117118061" duration="1974000" />
+      <workItem from="1544282563790" duration="5718000" />
+      <workItem from="1544288846574" duration="679000" />
+      <workItem from="1544334495531" duration="15618000" />
+      <workItem from="1544454801418" duration="788000" />
+      <workItem from="1544455771825" duration="3051000" />
+      <workItem from="1544538393256" duration="4805000" />
+      <workItem from="1544633380699" duration="18000" />
+      <workItem from="1544713976045" duration="3651000" />
+      <workItem from="1544719849306" duration="38000" />
+      <workItem from="1545065034518" duration="749000" />
+      <workItem from="1545144568051" duration="622000" />
+      <workItem from="1545232394279" duration="3926000" />
+      <workItem from="1545312553995" duration="4996000" />
+      <workItem from="1545320583856" duration="792000" />
+      <workItem from="1545325057014" duration="85000" />
+      <workItem from="1545325153669" duration="750000" />
+      <workItem from="1545922231792" duration="266000" />
+      <workItem from="1546011116220" duration="681000" />
+      <workItem from="1547213861885" duration="1060000" />
+      <workItem from="1547476941462" duration="1378000" />
+      <workItem from="1547551997980" duration="42000" />
+      <workItem from="1557154980316" duration="62000" />
+      <workItem from="1557155053487" duration="26000" />
+      <workItem from="1557155311241" duration="106000" />
+      <workItem from="1557570282849" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75831000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="104" y="289" width="2068" height="1160" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2840796" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32984033" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32906404" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3377961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31513903" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32911393" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3285273" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.32906404" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25553215" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32984033" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32906404" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35763547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985582" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32911393" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32911393" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.32906404" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/a.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test201811/Test20181127.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test201811/Test20181128_03.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/readText/readLine.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="type(qq_number)" />
+        <watch expression="text" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test201811/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201811/Test20181127.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201811/Test20181128.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201811/Test20181128_03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201811/Test20181129_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201811/Test20181129_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="44" column="6" selection-start-line="44" selection-end-line="44" selection-end-column="6" />
+          <folding>
+            <element signature="e#116#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181204.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181204_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181207.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181208.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_05.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_09.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_12.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_14.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181211.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181211_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181211_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181212_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181212_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181218_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_06.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test020181209_08.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/代码结构示意图.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/函数内部修改全局变量.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/函数和方法的区别.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/列表+=类似于expand方法.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/列表.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/运算符.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/继承.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/私有属性方法只能自己访问.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/私有属性和私有方法.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/形参赋值不影响实参.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/形参修改内存影响实参.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/异常捕获问题.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片笔记/字典比较特殊.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181213.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181212_02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181212.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="71" selection-start-line="20" selection-start-column="3" selection-end-line="22" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181211_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181220_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181219_03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181219_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181213_03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181211_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test201812/test20181213_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
